@@ -375,6 +375,9 @@ button {
     width: 370px;
     margin-right: 30px;
     margin-bottom: 30px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: #EEEEEE;
 }
 
 .portfolio-list .item:nth-child(3n) {
