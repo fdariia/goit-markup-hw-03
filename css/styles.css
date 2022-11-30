@@ -351,9 +351,11 @@ button {
     background-color: var(--third-background-color);
     color: var(--primary-text-color);
 
+    
     font-weight: 500;
     font-size: 16px;
     line-height: 1.62;
+    letter-spacing: 0.03em;
     text-align: center;
 }
 
