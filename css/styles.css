@@ -348,9 +348,6 @@ button {
     border-radius: 4px;
     padding: 6px 22px;
 
-
-    /* min-width: 73px; */
-
     background-color: var(--third-background-color);
     color: var(--primary-text-color);
 
