@@ -243,6 +243,9 @@ p {
 .team-box {
     padding-top: 30px;
     padding-bottom: 30px;
+    text-align: center;
+
+    background-color: var(--primary-white-color);
 }
 
 .team-list .image {
@@ -257,7 +260,6 @@ p {
     font-weight: 500;
     font-size: 16px;
     line-height: 1.19;
-    text-align: center;
 }
 
 .team-list .text {
@@ -265,7 +267,6 @@ p {
 
     font-size: 16px;
     line-height: 1.19;
-    text-align: center;
 }
 
 /* Footer */
